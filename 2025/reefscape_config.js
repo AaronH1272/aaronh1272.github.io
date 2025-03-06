@@ -86,6 +86,10 @@ var config_data = `
       "code": "ac4",
       "type": "counter"
     },
+    { "name": "Missed Coral",
+      "code": "ac5",
+      "type": "counter"
+    },
     { "name": "Auto Scoring Position",
       "code": "asp",
       "type": "clickable_image",
@@ -120,12 +124,24 @@ var config_data = `
       "code": "tc4",
       "type": "counter"
     },
+    { "name": "Missed Coral",
+      "code": "tc5",
+      "type": "counter"
+    },
     { "name": "Processor Score",
       "code": "tps",
       "type": "counter"
     },
     { "name": "Net Score",
       "code": "tns",
+      "type": "counter"
+    },
+    { "name": "Major Fouls",
+      "code": "tfs",
+      "type": "counter"
+    },
+    { "name": "Minor Fouls",
+      "code": "tms",
       "type": "counter"
     },
     { "name": "Pickup From",
