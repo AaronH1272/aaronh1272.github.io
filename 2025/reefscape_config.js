@@ -114,8 +114,16 @@ var config_data = `
       "code": "aps",
       "type": "counter"
     },
+    { "name": "Processor Miss",
+      "code": "ap2",
+      "type": "counter"
+    },
     { "name": "Net Score",
       "code": "ans",
+      "type": "counter"
+    },
+    { "name": "Net Miss",
+      "code": "an2",
       "type": "counter"
     }
   ],
@@ -156,8 +164,16 @@ var config_data = `
       "code": "tps",
       "type": "counter"
     },
+    { "name": "Processor Miss",
+      "code": "tp2",
+      "type": "counter"
+    },
     { "name": "Net Score",
       "code": "tns",
+      "type": "counter"
+    },
+    { "name": "Net Miss",
+      "code": "tn2",
       "type": "counter"
     },
     { "name": "Major Fouls",
