@@ -253,6 +253,7 @@ var config_data = `
       "code": "sr",
       "type": "radio",
       "choices": {
+        "0": "0 (stopped)<br>",
         "1": "1 (slow)<br>",
         "2": "2<br>",
         "3": "3<br>",
