@@ -74,20 +74,32 @@ var config_data = `
       "code": "ac1",
       "type": "counter"
     },
+    { "name": "Missed L1",
+      "code": "am1",
+      "type": "counter"
+    },
     { "name": "Coral L2",
       "code": "ac2",
+      "type": "counter"
+    },
+    { "name": "Missed L2",
+      "code": "am2",
       "type": "counter"
     },
     { "name": "Coral L3",
       "code": "ac3",
       "type": "counter"
     },
+    { "name": "Missed L3",
+      "code": "am3",
+      "type": "counter"
+    },
     { "name": "Coral L4",
       "code": "ac4",
       "type": "counter"
     },
-    { "name": "Missed Coral",
-      "code": "ac5",
+    { "name": "Missed L4",
+      "code": "am4",
       "type": "counter"
     },
     { "name": "Auto Scoring Position",
@@ -112,20 +124,32 @@ var config_data = `
       "code": "tc1",
       "type": "counter"
     },
+    { "name": "Missed L1",
+      "code": "tm1",
+      "type": "counter"
+    },
     { "name": "Coral L2",
       "code": "tc2",
+      "type": "counter"
+    },
+    { "name": "Missed L2",
+      "code": "tm2",
       "type": "counter"
     },
     { "name": "Coral L3",
       "code": "tc3",
       "type": "counter"
     },
+    { "name": "Missed L3",
+      "code": "tm3",
+      "type": "counter"
+    },
     { "name": "Coral L4",
       "code": "tc4",
       "type": "counter"
     },
-    { "name": "Missed Coral",
-      "code": "tc5",
+    { "name": "Missed L4",
+      "code": "tm4",
       "type": "counter"
     },
     { "name": "Processor Score",
