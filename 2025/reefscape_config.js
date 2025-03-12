@@ -105,8 +105,8 @@ var config_data = `
     { "name": "Pulled Algae off Reef",
       "code": "aar",
       "type": "counter"
-    }/*,
-    { "name": "Auto Scoring Position",
+    },
+    /*{ "name": "Auto Scoring Position",
       "code": "asp",
       "type": "clickable_image",
       "filename": "2025/reef.png",
