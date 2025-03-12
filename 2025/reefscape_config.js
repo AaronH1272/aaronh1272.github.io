@@ -15,7 +15,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2025MIKE2",
+      "defaultValue": "2025MIMCC",
       "required": "true"
     },
     { "name": "Match Level",
