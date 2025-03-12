@@ -54,8 +54,7 @@ var config_data = `
       "type": "team",
       "min": 1,
       "max": 99999
-    },
-    /*
+    }/*,
     { "name": "Auto Start Position",
       "code": "as",
       "type": "clickable_image",
@@ -106,8 +105,8 @@ var config_data = `
     { "name": "Pulled Algae off Reef",
       "code": "aar",
       "type": "counter"
-    },
-    /*{ "name": "Auto Scoring Position",
+    }/*,
+    { "name": "Auto Scoring Position",
       "code": "asp",
       "type": "clickable_image",
       "filename": "2025/reef.png",
